@@ -1,0 +1,38 @@
+_repo: A-Prose-English-Translation-of-Vishnupuranam-Based-on-Professor-H-H-Wilsons-translation_66208
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Wilson, H. H. (Horace Hayman)
+    alias: Wilson, Horace Hayman
+    birthdate: 1786
+    deathdate: 1860
+    gutenberg_agent_id: '53637'
+    url: http://www.gutenberg.org/2009/agents/53637
+    wikipedia: https://en.wikipedia.org/wiki/Horace_Hayman_Wilson
+  - agent_name: Dutt, Manmatha Nath
+    aliases:
+    - Dutt, Manmath Nath
+    - Manmatha Nath Dutt
+    - Shastri, Manmatha Nath Dutt
+    - Dutt, M. N. (Manmatha Nath)
+    gutenberg_agent_id: '49280'
+    url: http://www.gutenberg.org/2009/agents/49280
+description: ''
+gutenberg_issued: '2021-09-02'
+identifiers:
+  gutenberg: '66208'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hinduism -- Sacred books'
+- !lcsh 'Puranas. Visnupurana -- Adaptations'
+- !lcsh 'Sanskrit literature -- Translations into English'
+- !lcc 'BL'
+- !lcsh 'Vishnu (Hindu deity)'
+- !lcsh 'Hindu literature, Sanskrit -- Translations into English'
+- GITenberg
+title: "A Prose English Translation of Vishnupuranam\r\n(Based on Professor H. H.\
+  \ Wilson’s translation.)"
+url: http://www.gutenberg.org/ebooks/66208
