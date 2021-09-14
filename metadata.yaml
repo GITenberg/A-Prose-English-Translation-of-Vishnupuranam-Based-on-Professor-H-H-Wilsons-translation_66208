@@ -1,5 +1,5 @@
 _repo: A-Prose-English-Translation-of-Vishnupuranam-Based-on-Professor-H-H-Wilsons-translation_66208
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translators:
   - agent_name: Wilson, H. H. (Horace Hayman)
@@ -17,7 +17,12 @@ contributor:
     - Dutt, M. N. (Manmatha Nath)
     gutenberg_agent_id: '49280'
     url: http://www.gutenberg.org/2009/agents/49280
+covers:
+- cover_type: archival
+  image_path: 66208-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66208#A-Prose-English-Translation-of-Vishnupuranam-Based-on-Professor-H-H-Wilsons-translation
 gutenberg_issued: '2021-09-02'
 identifiers:
   gutenberg: '66208'
